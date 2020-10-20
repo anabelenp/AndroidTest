@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestAutomationApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_notes">Notes</string>
+    <string name="sort_ascendingByTitle">Sort Ascending By Title</string>
+    <string name="sort_descendingByTitle">Sort Descending By Title</string>
+    <string name="sort_ascendingByContent">Sort Ascending By Content</string>
+    <string name="sort_descendingByContent">Sort Descending By Content</string>
+</resources>

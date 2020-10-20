@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dexcom.testautomationapp.Notes">
+    <item
+        android:id="@+id/sortAscendingByTitle"
+        android:orderInCategory="100"
+        android:title="@string/sort_ascendingByTitle"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sortDescendingByTitle"
+        android:orderInCategory="100"
+        android:title="@string/sort_descendingByTitle"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sortAscendingByContent"
+        android:orderInCategory="100"
+        android:title="@string/sort_ascendingByContent"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sortDescendingByContent"
+        android:orderInCategory="100"
+        android:title="@string/sort_descendingByContent"
+        app:showAsAction="never" />
+</menu>
